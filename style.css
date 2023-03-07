@@ -1,0 +1,196 @@
+
+#puma{
+    width: 30%;
+    height: 30%;
+}
+#head3{
+    text-align: center;
+}
+.main{
+    margin-left:  10%;
+    margin-right: 10%;
+}
+#words{
+    font-size: 20px;
+    border: solid 2px;
+    margin-right: 50%;
+}
+nav1{
+    vertical-align: auto;
+    width: 100%;
+}
+.divmain{
+    width: 100%;
+    display: flex;
+    background-image: url(/shoeImages/bg.png);
+}
+.ultimate{
+    width: 50%;
+    font-size: 70px;
+    font-weight: bold;
+    margin-left: 10%;
+}
+#sideshoe{
+    width: 400px;
+    margin-top: 10%;
+    
+}
+.puma{
+    width: 30%;
+}
+.maindiv2{
+    width: 100%;
+    display: flex;
+    justify-content: space-around; 
+}
+.nike{
+    width: 30%;
+    
+}
+.adidas{
+    width: 30%;
+   
+}
+.thirddiv{
+    width: 100;
+    display: flex;
+    justify-content: space-around;
+}
+.great{
+    width: 100;
+    display: flex;
+    justify-content: space-around;
+}
+#puma2{
+    width: 20%;
+     
+}
+.see{
+    text-align: center;
+    background-color: red;
+    width: 100%;
+}
+.special{
+    width: 100%;
+    display: flex;
+}
+.offer{
+    width: 50%;
+    display: flex;
+}
+#feather{
+    width: 20%;
+    display: flex;
+}
+.white{
+    width: 50%;
+    float: right;
+    padding-bottom: 120px;
+    
+}
+.dolor{
+    float: right;
+}
+#new{
+    text-align: center;
+    font-size: xx-large;
+}
+#white{
+    display: flex;
+    
+}
+.testi{
+    width: 100%;
+    display: flex;
+    border: solid 1px;
+    margin-bottom: 30px;
+}
+.subscribe{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: pink;
+    border-radius: 50px;
+    padding-bottom: 60px;
+    font-size: 30px;   
+}
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: palevioletred;
+    font-size: small;
+}
+#ton{
+    background-color: rgb(170, 56, 75);
+    font-size: 20px;
+}
+#type{
+    font-size: 20px;
+}
+#but{
+    float: right;
+}
+#dolor{
+    font-size: large;
+}
+#fix{
+    color: red;
+}
+#how{
+    font-size: large;
+    background-color: pink;
+}
+#feat{
+    font-size: 50px;
+    text-align: center;
+}
+.men{
+    font-size: 30px;
+    font-weight: bold;
+}
+#wo{
+    color: red;
+}
+#head3{
+    font-size: 50px;
+}
+#button1{
+    background-color: rgb(233, 108, 108);
+    border: none;
+    font-size: medium;
+}
+#button2{
+    background-color: rgb(233, 108, 108);
+    border: none;
+    font-size: medium;
+}
+#button3{
+    background-color: rgb(233, 108, 108);
+    border: none;
+    font-size: medium;
+}
+#blackshoe{
+    width: 20%;
+    padding-bottom: 120px;
+
+}
+.white{
+    display: flex;
+}
+
+    
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
